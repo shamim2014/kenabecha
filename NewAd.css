@@ -1,0 +1,179 @@
+.NewAd_Page
+{
+	  width: 966px;
+      margin: 0px auto;
+      margin-top: 0px;
+      margin-right-value: auto;
+      margin-bottom: 0px;
+      margin-left-value: auto;
+      margin-left-ltr-source: physical;
+      margin-left-rtl-source: physical;
+      margin-right-ltr-source: physical;
+      margin-right-rtl-source: physical;
+}
+.NewAd_prograbar
+{
+    background: -moz-linear-gradient(center top , rgb(255, 255, 255), rgb(245, 245, 245)) repeat scroll 0% 0% transparent;
+	border-radius: 4px 4px 0px 0px;
+    border-bottom: 1px solid rgb(219, 219, 219);
+	text-align:center;
+}
+.label
+{
+   float:left;
+   width:150px;
+   height:50px;
+   text-align:right;
+}
+.NewAd_input
+{  
+   padding-left:20px;
+   float:left;
+   width:500px;
+   height:50px;
+}
+.Ad_row
+{
+  padding:10px;
+  padding-top:10px;
+  width:900px;
+  height:30px;
+  
+ }
+ .NewAd_Info
+{
+    padding:20px;
+	background: none repeat scroll 0% 0% rgb(255, 255, 255);
+	width:900px;
+    height:840px;
+	border:#0000FF;
+	border:solid;
+}
+.Ad_text
+{
+  padding:10px;
+  padding-top:180px;
+  width:900px;
+  height:50px; 
+ }
+ .label_text
+ {
+   float:left;
+   width:150px;
+   height:50px;
+   text-align:right;
+
+ }
+ .NewAd_text
+{  
+   padding-left:20px;
+   float:left;
+   width:500px;
+   height:50px;
+}
+
+
+/**/
+
+body 
+{
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 18px;
+    font-family: arial,sans-serif;
+    color: rgb(68, 68, 68);
+}
+
+[class*="col"] {
+    float: left;
+    margin-left: 18px;
+}
+/**/
+.ads-new .feedback {
+    display: none;
+}
+form .field .feedback {
+    line-height: 18px;
+}
+form .feedback {
+    font-size: 13px;
+    display: block;
+    padding: 3px 0px;
+    max-width: 360px;
+    color: rgb(191, 191, 191);
+}
+
+.legend
+{
+   padding-top:150px;
+   padding-left:180px;
+   width:700px;
+   height:40px;
+   text-align:justify;
+   border-bottom:dashed;
+   border-bottom-color:#6600CC;
+   overflow:visible;
+   border-width:medium;
+}
+.Ad_row_user
+{
+    padding:10px;
+    padding-top:30px;
+    width:900px;
+    height:50px;
+
+}
+.submit
+{
+       border-right: 1px solid rgb(201, 147, 55);
+        border-right-width-value: 1px;
+        border-right-style-value: solid;
+        border-right-color-value: rgb(201, 147, 55);
+        border-right-width-ltr-source: physical;
+        border-right-width-rtl-source: physical;
+        border-right-style-ltr-source: physical;
+        border-right-style-rtl-source: physical;
+        border-right-color-ltr-source: physical;
+        border-right-color-rtl-source: physical;
+    border-width: 1px;
+        border-top-width: 1px;
+        border-right-width-value: 1px;
+        border-bottom-width: 1px;
+        border-left-width-value: 1px;
+        border-left-width-ltr-source: physical;
+        border-left-width-rtl-source: physical;
+        border-right-width-ltr-source: physical;
+        border-right-width-rtl-source: physical;
+    border-style: solid;
+        border-top-style: solid;
+        border-right-style-value: solid;
+        border-bottom-style: solid;
+        border-left-style-value: solid;
+        border-left-style-ltr-source: physical;
+        border-left-style-rtl-source: physical;
+        border-right-style-ltr-source: physical;
+        border-right-style-rtl-source: physical;
+    border-color: rgb(244, 178, 68) rgb(201, 147, 55) rgb(201, 147, 55);
+        border-top-color: rgb(244, 178, 68);
+        border-right-color-value: rgb(201, 147, 55);
+        border-bottom-color: rgb(201, 147, 55);
+        border-left-color-value: rgb(201, 147, 55);
+        border-left-color-ltr-source: physical;
+        border-left-color-rtl-source: physical;
+        border-right-color-ltr-source: physical;
+        border-right-color-rtl-source: physical;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    margin-left: 177px;
+	
+}
+.subButton
+{
+  padding:30px;
+   padding-left:100px;
+}
+
+

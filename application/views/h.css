@@ -1,0 +1,139 @@
+
+.body {
+    font-size:13px;
+    font-weight:normal;
+    line-height:18px;
+    font-family:arial,sans-serif;
+	background-color:#FFFFFF;
+	height:700px;
+	width:966px;
+	margin:30px auto;
+	border-radius:10px 10px 10px 10px;
+
+}
+.header
+{
+
+	background-color:#FFFFFF;
+	height:100px;
+	width:966px;
+	margin:30px auto;
+	border-radius:10px 10px 10px 10px;
+}
+
+.footer
+{
+	background-color:#999999;
+	height:100px;
+	width:800px;
+	margin:30px auto;
+	border-radius:10px 10px 10px 10px;
+}
+
+#wrapper {
+    width: 966px;
+    margin: 30px auto;
+    background: none repeat scroll 0% 0% rgb(54, 54, 54);
+    min-height: 700px;
+    font-size: 14px;
+    line-height: 1.5em;
+    border-radius: 10px 10px 10px 10px
+}
+#demo
+{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+
+li
+{
+float:left;
+}
+li
+{
+display:block;
+width:100px;
+background-color:#00000;
+}
+
+.wrap {
+    width: 966px;
+    margin: 0px auto;
+}
+
+
+.item-box {
+    padding: 24px;
+    margin: 24px 0px 0px;
+    text-align: center;
+}
+
+
+.item-box .btn-wrapper {
+    display: inline-block;
+}
+
+
+.item-box .btn-wrapper .bg.left {
+    float: left;
+}
+
+
+.item-box .btn-wrapper .bg.right {
+    
+    float: right;
+}
+
+.item-box .btn-border {
+    margin: 22px 5px 0px 7px;
+    padding: 5px 4px;
+    border-radius: 2px 2px 2px 2px;
+    display: inline-block;
+}
+
+
+.btn.post > span 
+{
+color: rgb(255, 255, 255);border-top: 1px solid rgb(255, 236, 170);text-shadow: 1px 1px 1px rgb(201, 147, 55);background: -moz-linear-gradient(center top , rgb(255, 217, 114) 0%, rgb(255, 186, 73) 100%) repeat scroll 0% 0% transparent;
+}.btn.large > span {
+font-size: 20px;padding: 13px 20px 10px;
+}
+.btn > span {
+border-radius:3px 3px 3px 3px;
+}
+
+#site-floor {
+    /*background: none repeat scroll 0% 0% rgb(255, 255, 255);*/
+    padding: 20px 0px;
+    font-size: 12px;
+	height:100px;
+}
+
+.row {
+    margin-left: -18px;
+}
+
+[class*="col"] {
+    float: left;
+    margin-left: 18px;
+}
+
+#floor-nav {
+    text-align: right;
+}
+ 
+ 
+ .flat {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+#cross-links {
+    margin-top: 6px;
+    font-size: 10px;
+    color: rgb(170, 170, 170);
+}

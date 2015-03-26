@@ -1,0 +1,491 @@
+.AllAd_wrap 
+{
+    padding-top: 18px;
+	width: 966px;
+    margin: 0px auto;
+    margin-top: 0px;
+    margin-right-value: auto;
+    margin-bottom: 0px;
+    margin-left-value: auto;
+    margin-left-ltr-source: physical;
+    margin-left-rtl-source: physical;
+    margin-right-ltr-source: physical;
+    margin-right-rtl-source: physical;
+}
+
+
+#item-search {
+    background: linear-gradient(to bottom, rgb(255, 255, 255) 0%, rgb(10, 200, 109) 1%, rgb(2, 172, 94) 98%) repeat scroll 0% 0% transparent;
+}
+#item-search {
+    overflow: hidden;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.3);
+    border: 1px solid rgb(80, 165, 92);
+    padding: 6px;
+}
+#item-search #ad-types, #item-search .h-stack.fields {
+    background-color: rgb(3, 152, 81);
+}
+#item-search .h-stack.fields {
+    padding: 6px;
+    border-radius: 4px 4px 4px 4px;
+}
+#item-search .fields > div {
+    margin-right: 6px;
+}
+.h-stack > div, .h-stack > li, .h-stack > a {
+    float: left;
+}
+#item-search-field {
+    border: 1px solid rgb(61, 122, 64);
+    width: 386px;
+    font-size: 14px;
+    padding: 6px 10px;
+}
+input[type="text"], input[type="password"], select, textarea {
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1) inset;
+}
+input[type="text"], input[type="password"], textarea, select {
+    display: inline-block;
+    width: 220px;
+    padding: 4px;
+    font-size: 13px;
+    line-height: 32px;
+    height: 32px;
+    color: rgb(128, 128, 128);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px 3px 3px 3px;
+}
+#item-search .category select {
+    width: 225px;
+}
+#item-search .category select, #item-search .location select {
+    height: 32px;
+    padding: 7px;
+    border: 1px solid rgb(61, 122, 64);
+}
+#item-search div.submit {
+    margin-right: 15px;
+}
+select {
+    width: 232px;
+}
+select, input[type="file"] {
+    height: 27px;
+    line-height: 27px;
+}
+input[type="text"], input[type="password"], select, textarea {
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1) inset;
+}
+select {
+    display: inline-block;
+    width: 220px;
+    padding: 4px;
+    font-size: 13px;
+    line-height: 18px;
+    height: 18px;
+    color: rgb(128, 128, 128);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px 3px 3px 3px;
+}
+#item-search .location select {
+    width: 194px;
+}
+search .location select {
+    height: 32px;
+    padding: 7px;
+    border: 1px solid rgb(61, 122, 64);
+}
+#item-search div.submit {
+    margin-right: 0px;
+}
+#item-search .search-btn {
+    border: 1px solid rgb(61, 122, 64);
+    overflow: hidden;
+}
+.btn.large.search-btn {
+    width: 100px;
+    box-shadow: none;
+}
+button.btn {
+    margin: 0px;
+    padding-left:: 10px;
+    overflow: visible;
+}
+.btn {
+    cursor: pointer;
+    display: inline-block;
+    line-height: 14px;
+    text-transform: uppercase;
+    border-width: 1px;
+    border-style: solid;
+    border-right: 1px solid rgb(187, 187, 187);
+    border-color: rgb(204, 204, 204) rgb(187, 187, 187) rgb(187, 187, 187);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 1px rgb(221, 221, 221);
+}
+button, input, option, textarea {
+    font-family: arial,sans-serif;
+    margin: 0px;
+}
+#item-search i.ico-search-btn {
+    height: 18px;
+    background-position: -334px -3px;
+}
+i.ico-search-btn {
+    float: none;
+    background-position: -334px -1px;
+    margin: -5px 0px 0px -10px;
+}
+i[class^="ico"] {
+    background: url("http://0.ctas.saltsidecdn.net/assets/kviberg-ui/icons-3f347d7242edfb639c41b658e2edc178.png") no-repeat scroll 0% 0% transparent;
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    float:right;
+    margin: -5px 8px 0px -8px;
+}
+i {
+    font-style: normal;
+}
+.btn.large.search-btn span {
+    font-size: 16px;
+}
+.btn.large > span {
+    font-size: 20px;
+}
+.btn > span {
+    font-size: 14px;
+    color: rgb(85, 85, 85);
+    text-shadow: 1px 1px 1px rgb(255, 255, 255);
+    white-space: nowrap;
+}
+.btn {
+    cursor: pointer;
+    line-height: 14px;
+    text-transform: uppercase;
+}
+button, input, option, textarea {
+    font-family: arial,sans-serif;
+}
+#item-search i.ico-search-btn {
+    height: 34px;
+    background-position: -334px -3px;
+}
+
+
+
+
+---!side bar
+.ads-index #serp {
+    background: url("http://1.ctas.saltsidecdn.net/assets/serp_nav_bg-6d155a10d45cdbca27d1bc398bcf3c15.png") repeat-y scroll -2px 0px rgb(255, 255, 255);
+}
+
+#serp {
+    margin-top: 12px;
+    margin-left: 0px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 4px 4px 4px 4px;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2);
+}
+
+.row {
+    margin-left: -18px;
+}
+#serp-nav {
+    margin-left: 0px;
+}
+[class*="col"] {
+    float: left;
+    margin-left: 18px;
+}
+.col3 {
+    width: 228px;
+}
+.col9 {
+    width: 720px;
+}
+#serp-nav .inner-box-compact {
+    background: none repeat scroll 0% 0% transparent;
+}
+.inner-box-compact {
+    padding: 12px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+.flat {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0px;
+}
+.tree {
+    margin-bottom: 12px;
+}
+.flat {
+    list-style: none outside none;
+}
+.tree .current {
+    padding: 4px 0px;
+    line-height: 1.1;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.tree .tree {
+    padding-left: 12px;
+}
+a {
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+.tree a {
+    color: rgb(0, 84, 126);
+    padding: 4px 0px;
+    display: block;
+    line-height: 1.1;
+}
+.tree .count {
+    color: rgb(187, 187, 187);
+}
+.js .less .hidden {
+    display: none;
+}
+.tree .more {
+    color: rgb(164, 164, 164);
+    font-weight: bold;
+    font-size: 11px;
+    margin-left: -9px;
+}
+
+
+
+
+
+
+
+#item-nav-bar {
+    border-top-color: rgb(255, 255, 255);
+}
+
+#item-nav-bar .tabs {
+    background: -moz-linear-gradient(center top , rgb(247, 247, 247), rgb(240, 240, 240)) repeat scroll 0% 0% transparent;
+}
+#item-nav-bar .tabs {
+    padding: 0px 18px;
+    height: 47px;
+    border-bottom: 1px solid rgb(221, 221, 221);
+    color: rgb(51, 51, 51);
+}
+#item-nav-bar #scopes {
+    bottom: -1px;
+    position: relative;
+}
+#item-nav-bar .tabs .tab a {
+    border-color: rgb(221, 221, 221);
+}
+#scopes .tab:first-child a {
+    border-left: 1px solid rgb(221, 221, 221);
+}
+#item-nav-bar .current a {
+    color: rgb(0, 0, 0);
+    border-bottom: 0px none;
+}
+#item-nav-bar .tab a {
+    padding: 16px 20px;
+    display: block;
+    height: 15px;
+    border-right: 1px solid rgb(221, 221, 221);
+}
+.ad-count {
+    font-size: 10px;
+    line-height: 14px;
+    height: 14px;
+    display: inline-block;
+    padding: 0px 4px;
+    margin: 0px 0px 0px 4px;
+    top: 3px;
+    position: relative;
+    vertical-align: top;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 1px 1px 2px rgb(221, 221, 221);
+    color: rgb(153, 153, 153);
+}
+.polar {
+    float: right;
+}
+#sort-mode-nav .current-sort {
+    float: left;
+    color: rgb(153, 153, 153);
+    height: 15px;
+    padding: 16px 0px 16px 10px;
+    text-decoration: none;
+}
+#sort-mode-nav i.arrow {
+    width: 20px;
+    height: 24px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -5px;
+    margin-left: 3px;
+    background: url("http://3.ctas.saltsidecdn.net/assets/filter_toggle-d3f04aedc021ee334c18515caeca0e81.png") no-repeat scroll 0px 4px transparent;
+}
+i {
+    font-style: normal;
+}
+#sort-mode-nav .sort-options {
+    position: absolute;
+    top: 47px;
+    left: -1px;
+    display: none;
+    background-color: rgb(240, 240, 240);
+    border-style: solid;
+    border-color: rgb(221, 221, 221);
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    border-width: 0px 1px 1px;
+    box-shadow: 0px 2px 5px rgb(238, 238, 238);
+    z-index: 100;
+}
+#sort-mode-nav .sort-options a.active, #sort-mode-nav .sort-options a:hover {
+    color: rgb(0, 0, 0);
+}
+#sort-mode-nav .sort-options a {
+    white-space: nowrap;
+    display: block;
+    padding: 0px;
+    color: rgb(153, 153, 153);
+}
+
+#item-nav-bar .current {
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+
+
+
+
+#item-listing .top {
+    padding: 12px 18px 6px;
+}
+ol.breadcrumbs {
+    font-size: 12px;
+}
+.breadcrumbs {
+    float: left;
+}
+ol.breadcrumbs li a.current {
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+#item-rows {
+    padding: 0px 18px 12px;
+}
+ul#item-rows.regular li.item {
+    background: url("http://1.ctas.saltsidecdn.net/assets/serp-2a63968fc8c7928eec184b0f6524b102.png") no-repeat scroll right -444px transparent;
+    position: relative;
+    height: 110px;
+    cursor: pointer;
+}
+ul#item-rows.regular li.item > div.h-stack {
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    border: 1px solid rgb(234, 234, 234);
+    overflow: hidden;
+    height: 98px;
+}
+ul#item-rows.regular li.item {
+    cursor: pointer;
+}
+ul#item-rows.regular li.item .photo {
+    width: 120px;
+    height: 92px;
+    padding: 3px;
+}
+img {
+    border: 0px none;
+    vertical-align: bottom;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+div.pagination {
+    display: none;
+    margin: 12px;
+    overflow: hidden;
+}
+div.pagination .page {
+    margin-right: 4px;
+}
+div.pagination .prev.disabled a {
+    background-position: -47px -78px;
+}
+div.pagination .disabled a {
+    cursor: default;
+}
+iv.pagination .prev a, div.pagination .next a {
+    text-indent: -9999px;
+    border: 1px solid rgb(255, 255, 255);
+    background: url("http://1.ctas.saltsidecdn.net/assets/serp-2a63968fc8c7928eec184b0f6524b102.png") no-repeat scroll -97px 6px transparent;
+}
+div.pagination a {
+    background: none repeat scroll 0% 0% rgb(244, 244, 244);
+    color: rgb(155, 155, 155);
+    display: block;
+    height: 30px;
+    min-width: 28px;
+    padding: 0px 2px;
+    border: 1px solid rgb(238, 238, 238);
+    text-align: center;
+    line-height: 30px;
+}
+.js #server-side-pagination {
+    display: none;
+}
+li {
+    float: left;
+}
+li {
+    display: block;
+    width: 180px;
+}
+
+.adRow
+{
+  height:100px;
+  width:720px;
+}
+.imgeAd
+{
+  height:100px;
+  width:100px;
+  float:left;
+  padding-left:50px;
+}
+.adInfo
+{
+  height:100px;
+  float:left;
+  padding-left:50px;
+}

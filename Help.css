@@ -1,0 +1,233 @@
+
+#site-content {
+    background: none repeat scroll 0% 0% rgb(231, 237, 238);
+    padding-bottom: 36px;
+}
+.wrap {
+    width: 966px;
+    margin: 0px auto;
+}
+#site-content > .wrap:first-child {
+    padding-top: 18px;
+}
+.inner-box {
+    padding: 24px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+.wrap > .inner-box {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+}
+.top {
+    padding: 25px 30px;
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+    color: rgb(64, 64, 64);
+}
+h1 {
+    margin-bottom: 18px;
+    font-size: 36px;
+    line-height: 36px;
+}
+p {
+    font-size: 13px;
+    line-height: 20px;
+    margin: 18px 0px;
+}
+.top p {
+    font-size: 15px;
+    margin-bottom: 0px;
+    width: 75%;
+}
+.row {
+    margin-left: -18px;
+}
+.main {
+    margin: 0px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+    position: relative;
+}
+
+[class*="col"] {
+    float: left;
+    margin-left: 18px;
+}
+.col3 {
+    width: 328px;
+}
+.nav {
+    margin: 0px;
+    width: 245px;
+    padding-bottom: 20px;
+}
+.main .backdrop {
+    width: 245px;
+    border-right: 1px solid rgb(207, 207, 207);
+    height: 100%;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: 100;
+}
+.flat {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0px;
+}
+.nav ul {
+    position: relative;
+    z-index: 150;
+}
+.flat {
+    list-style: none outside none;
+}
+.nav li {
+    background-color: rgb(246, 246, 246);
+    border-top: 1px solid rgb(253, 253, 253);
+    border-bottom: 1px solid rgb(207, 207, 207);
+}
+.nav li.current,.nav li:active,.nav li:hover {
+    background: -moz-linear-gradient(center top , rgb(255, 255, 255), rgb(241, 241, 241)) repeat scroll 0% 0% transparent;
+}
+a {
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+.nav li a {
+    display: block;
+    position: relative;
+    padding-top: 79px;
+    height: 41px;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(116, 116, 115);
+    background: url("http://1.ctas.saltsidecdn.net/assets/help-icons-9fb929e3d5da431d70467eaa1b573e34.gif") no-repeat scroll 0% 0% transparent;
+}
+.nav li a.faq {
+    background-position: 10px 0px;
+}
+.nav li.current a, .nav li:active a, .nav li:hover a {
+    color: rgb(29, 29, 27);
+}
+.nav li.current a.faq, .nav li:active a.faq, .nav li:hover a.faq {
+    background-position: 10px -120px;
+}
+ .nav li a.sell-fast {
+    background-position: -220px 0px;
+}
+.nav li a.stay-safe {
+    background-position: -450px 0px;
+}
+.nav li a.contact {
+    background-position: -680px 0px;
+}
+.nav li a.about {
+    background-position: -890px 0px;
+}
+li {
+    display: block;
+    width: 250px;
+}
+li {
+    float:left;
+}
+
+.col9 {
+    width: 720px;
+}
+.content {
+    margin: 0px;
+}
+.inner-box {
+    padding: 24px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+h2 {
+    font-size: 22px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+dl {
+    margin-bottom: 18px;
+}
+#competition, #qna,#faq {
+    border-width: 0px 1px 1px;
+    border-style: solid;
+    border-color: rgb(234, 234, 234);
+    margin: 20px 0px 0px;
+}
+dl dt, dl dd {
+    line-height: 18px;
+}
+dl dt {
+    font-weight: bold;
+}
+#competition dt, #qna dt, #faq dt {
+    position: relative;
+    border-top: 1px solid rgb(234, 234, 234);
+    margin: 0px;
+    background: url("http://2.ctas.saltsidecdn.net/assets/help-faq-arrows-1143ae1a264e20c482385e5ec5dcf7e9.gif") no-repeat scroll right top transparent;
+    overflow: hidden;
+}
+i {
+    font-style: normal;
+}
+dt i {
+    padding: 20px 0px;
+}
+ #faq dt i {
+    position: absolute;
+    display: block;
+    width: 60px;
+    height: 100%;
+    font-size: 12px;
+    font-style: normal;
+    color: rgb(155, 155, 155);
+    text-align: center;
+    background: -moz-linear-gradient(center top , rgb(245, 245, 245), rgb(240, 240, 240)) repeat scroll 0% 0% transparent;
+}
+a {
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+ #faq dt a, #faq dt i {
+    padding: 20px 0px;
+}
+ #faq dt a {
+    padding-right: 40px;
+    font-size: 14px;
+    display: block;
+    margin: 0px 20px 0px 80px;
+}
+
+.section {
+    position: relative;
+    overflow: hidden;
+    margin: 480px 480px 480px;
+}
+.photo {
+    width: 240px;
+    float: left;
+}
+.photo {
+    width: 240px;
+    float: left;
+}
+.photo h3.number {
+    position: absolute;
+    top: 0px;
+    color: rgb(255, 255, 255);
+    height: 46px;
+    width: 46px;
+    line-height: 46px;
+    background: url("progress-steps.png") no-repeat scroll 0% 0% transparent;
+    font-size: 26px;
+    text-align: center;
+    text-shadow: 1px 1px 2px rgb(201, 151, 66);
+}
+.text {
+    width: 333px;
+    float: right;
+}

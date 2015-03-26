@@ -1,0 +1,187 @@
+/* CSS Document */
+
+#site-content {
+	font-size:13px;
+    font-weight:normal;
+    line-height:18px;
+    font-family:arial,sans-serif;
+	background-color:#FFFFFF;
+	height:700px;
+	width:966px;
+	margin:30px auto;
+	border-radius:10px 10px 10px 10px;
+
+    background: none repeat scroll 0% 0% rgb(231, 237, 238);
+    padding-bottom: 36px;
+}
+
+.wrap {
+    width: 966px;
+    margin: 0px auto;
+	padding-top:18px;
+}
+.toggle-context
+{
+	padding-top:30px;
+}
+.inner-box {
+    padding: 24px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+
+.row {
+    margin-left: -18px;
+}
+
+[class*="col"] {
+    float: left;
+    margin-left: 18px;
+}
+
+.col6 {
+    width: 474px;
+}
+.col5{
+	width:380px;
+}
+
+.login_page ul.reasons {
+    margin-top: 18px;
+    font-size: 16px;
+    padding-left: 100px;
+}
+
+.sessions-new ul.reasons li {
+    padding: 28px 0px;
+    color: rgb(136, 136, 136);
+}
+
+.polar {
+    float: right;
+}
+
+.tabs {
+    position: relative;
+    bottom: -1px;
+    left: -1px;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.tab.active{
+    border-radius: 3px 3px 0px 0px;
+    border-width: 1px 1px 0px;
+    border-style: solid solid none;
+    border-color: rgb(222, 222, 222) rgb(222, 222, 222) -moz-use-text-color;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image: none;
+    background: none repeat scroll 0% 0% rgb(249, 249, 249);
+    color: rgb(34, 34, 34);
+	}
+
+.tab{
+    padding: 14px 24px;
+    font-weight: bold;
+    display: inline-block;
+    float: left;
+}
+a {
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+
+.form-box {
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.3);
+    border-top: 1px solid rgb(222, 222, 222);
+    margin-bottom: 48px;
+}
+.inner-box {
+    padding: 24px;
+    background: none repeat scroll 0% 0% rgb(255, 255, 255);
+}
+
+.form-box .inner-box {
+    background-color: rgb(249, 249, 249);
+}
+
+form .field {
+    margin-bottom: 18px;
+}
+form .prepend, form .append {
+    font-size: 0px;
+}
+form .prepend .add-on {
+    border-radius: 3px 0px 0px 3px;
+    border-right: medium none;
+}
+form .add-on.xl {
+    padding: 4px 6px;
+}
+
+form .add-on {
+    font-size: 13px;
+    border: 1px solid rgb(204, 204, 204);
+    background: none repeat scroll 0% 0% whiteSmoke;
+    color: rgb(153, 153, 153);
+    vertical-align: top;
+    height: 26px;
+    float: left;
+    /*padding: 0px 4px;*/
+    line-height: 28px;
+}
+i {
+    font-style: normal;
+}
+i[class^="ico"] {
+    background: url("http://1.ctas.saltsidecdn.net/assets/kviberg-ui/icons-97dfb59be67dcebf4ebe092741d46b62.png") no-repeat scroll 0% 0% transparent;
+    display: inline-block;
+    width: 22px;
+    height: 22px;
+    float: left;
+    /*margin: -5px 8px 0px -8px;*/
+}
+
+i.ico-email {
+    background-position: -289px 2px;
+}
+i.ico-password {
+    background-position: -312px 2px;
+}
+form .input .add-on i {
+    margin: 0px;
+}
+form .add-on i {
+    margin: 0px;
+}
+input[type="text"], input[type="password"], textarea, select {
+    display: inline-block;
+    width: 220px;
+    padding: 4px;
+    font-size: 13px;
+    line-height: 36px;
+    height: 36px;
+    color: rgb(128, 128, 128);
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 3px 3px 3px 3px;
+}
+button, input, option, textarea {
+    font-family: arial,sans-serif;
+    margin: 0px;
+}
+input.xl {
+    font-size: 16px;
+    padding: 8px;
+}
+input[type="text"], input[type="password"], select, textarea {
+    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.1) inset;
+}
+form .prepend input {
+    border-radius: 0px 3px 3px 0px;
+}
+.form-box input[type="text"], .form-box input[type="password"] {
+    width: 278px;
+}

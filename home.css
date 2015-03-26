@@ -1,0 +1,222 @@
+#site-content {
+    background: none repeat scroll 0% 0% rgb(231, 237, 238);
+}
+#site-content {
+    background: none repeat scroll 0% 0% rgb(231, 237, 238);
+    padding-bottom: 0px;
+}
+#site-content #home-top {
+    background-position: 0px 18px;
+}
+#site-content #home-top {
+    padding-top: 36px;
+}
+#site-content #home-top {
+    background: url("http://0.ctas.saltsidecdn.net/assets/themes/classic/landing_page_gradient-85d7d307e43a5185d1da2d0f68f5d2d9.png") repeat-x scroll left top rgb(231, 237, 238);
+}
+ #site-content #home-top .wrap {
+    padding: 0px;
+}
+.wrap {
+    width: 966px;
+    margin: 0px auto;
+}
+h1 {
+    margin-bottom: 18px;
+    font-size: 36px;
+    line-height: 36px;
+}
+
+
+p {
+    font-size: 13px;
+    line-height: 20px;
+    margin: 18px 0px;
+}
+a {
+    color: rgb(136, 136, 136);
+    text-decoration: none;
+}
+#home-top .row.content {
+    position: relative;
+}
+.row {
+    margin-left: -18px;
+}
+#site-content #home-top .wrap {
+    padding: 0px;
+}
+#site-content .content .wrap {
+    margin-top: 23px;
+}
+#site-content .content .wrap {
+    margin-top:0px;
+}
+#home-top .content .wrap {
+    width: 960px;
+}
+.wrap {
+    width: 966px;
+    margin: 0px auto;
+}
+#map, #map-layer {
+    width: 340px;
+}
+#map {
+    height: 430px;
+    position: relative;
+}
+[class*="col"] {
+    float: left;
+    margin-left: 18px;
+}
+#map-imagemap {
+    z-index: 100;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+img {
+    border: 0px none;
+    vertical-align: bottom;
+}
+#map-layer {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    z-index: 0;
+}
+#map-layer {
+    height: 420px;
+    background: url("http://3.ctas.saltsidecdn.net/assets/sites/bikroy/bikroy-sprite-b3e18eb1a468f8fd458f6f4a37112f69.png") no-repeat scroll left top transparent;
+}
+#map, #map-layer {
+    width: 340px;
+}
+#map-layer .dhaka {
+    background-position: -890px -399px;
+    top: 178px;
+    left: 166px;
+}
+#map-layer .city {
+    z-index: 2;
+    height: 30px;
+    width: 150px;
+}
+#map-layer div {
+    display: none;
+    z-index: 1;
+    height: 260px;
+    width: 160px;
+    background: url("http://3.ctas.saltsidecdn.net/assets/sites/bikroy/bikroy-sprite-b3e18eb1a468f8fd458f6f4a37112f69.png") no-repeat scroll left top transparent;
+    position: absolute;
+}
+#map-layer .chittagong {
+    background-position: -890px -434px;
+    top: 267px;
+    left: 261px;
+}
+#map-layer .sylhet {
+    background-position: -889px -356px;
+    top: 103px;
+    left: 260px;
+}
+#map-layer .khulna-division {
+    background-position: -480px -30px;
+    top: 162px;
+    left: 57px;
+}
+#map-layer .chittagong-division {
+    background-position: -657px -6px;
+    top: 157px;
+    left: 191px;
+}
+#map-layer .rangpur-division {
+    background-position: -849px -72px;
+    top: 3px;
+    left: 31px;
+}
+#map-layer .barishal-division {
+    background-position: -1002px -73px;
+    top: 229px;
+    left: 100px;
+}
+#map-layer .rajshahi-division {
+    background-position: -1172px -73px;
+    top: 83px;
+    left: 38px;
+}
+#map-layer .dhaka-division {
+    background-position: -448px -299px;
+    top: 61px;
+    left: 70px;
+}
+#map-layer .sylhet-division {
+    background-position: -679px -299px;
+    top: 16px;
+    left: 188px;
+}
+.tooltip {
+    display: none;
+    position: absolute;
+    text-align: center;
+    width: 250px;
+}
+.tooltip.rangpur-division {
+    top: 35px;
+    left: -19px;
+}
+img {
+    border: 0px none;
+    vertical-align: bottom;
+}
+#map-imagemap {
+    z-index: 100;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+#region-list {
+    margin-top: 60px;
+}
+.h-stack > div, .h-stack > li, .h-stack > a {
+    float: left;
+}
+#region-list .region {
+    width: 150px;
+    margin-right: 18px;
+}
+.flat {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0px;
+}
+#region-list .region h3 {
+    margin-bottom: 8px;
+    font-size: 16px;
+    line-height: 16px;
+    height: 22px;
+    font-weight: normal;
+    border-bottom: 1px solid rgb(166, 167, 167);
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0px;
+    padding: 0px;
+    color: rgb(64, 64, 64);
+}
+h1 {
+    margin-bottom: 18px;
+    font-size: 36px;
+    line-height: 36px;
+}
+#header {
+    font-weight: normal;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.slogan {
+    font-size: 16px;
+    text-align: center;
+}
